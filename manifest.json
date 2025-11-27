@@ -1,0 +1,20 @@
+{
+  "name": "しのこ",
+  "short_name": "しのこ",
+  "start_url": "https://user-name.github.io/repo-name/",
+  "display": "standalone",
+  "background_color": "#AA6C39",
+  "theme_color": "#AA6C39",
+  "icons": [
+    {
+      "src": "192image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "512image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
