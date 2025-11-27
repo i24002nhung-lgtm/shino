@@ -1,7 +1,7 @@
 {
   "name": "しのこ",
   "short_name": "しのこ",
-  "start_url": "https://user-name.github.io/repo-name/",
+  "start_url": "https://i24002nhung-lgtm.github.io/shino/",
   "display": "standalone",
   "background_color": "#AA6C39",
   "theme_color": "#AA6C39",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
